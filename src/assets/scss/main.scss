@@ -1,0 +1,122 @@
+* {
+  font-family: "Noto Serif", serif;
+  color: #381a00;
+}
+p {
+  margin: 0 !important;
+}
+.logo {
+  height: 60px;
+}
+
+.container {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar {
+  background-color: white;
+  backdrop-filter: blur(5px);
+}
+.navbar .navbar-brand {
+  font-family: "Permanent Marker", cursive;
+  padding: 0 !important;
+  color: #fdb000 !important;
+  font-size: 40px;
+  -webkit-text-stroke: 2.5px #381a00;
+}
+.navbar a {
+  font-weight: 700;
+  font-size: 20px;
+  color: #381a00 !important;
+}
+
+.card {
+  margin-bottom: 20px;
+  background-color: #fdb000 !important;
+  border: 2px solid #381a00 !important;
+  overflow: hidden;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+}
+.card:hover {
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.4);
+  img {
+    transform: scale(1.1);
+  }
+}
+.card img {
+  height: 180px;
+  object-fit: cover;
+  transition: transform 0.5s ease-in-out;
+}
+.card .informations {
+  padding: 10px;
+}
+.card .item-name {
+  font-size: 20px;
+}
+.card .item-price {
+  font-size: 15px;
+}
+.card .item-description {
+  font-size: 12px;
+}
+
+.footer {
+  background-color: #fdb000;
+}
+
+.carousel-item {
+  height: 500px;
+  object-fit: cover;
+}
+@media (max-width: 576px) {
+  .carousel-item {
+    height: auto;
+  }
+  .carousel-control-prev,
+  .carousel-control-next {
+    display: none;
+  }
+}
+
+.btn-outline-secondary {
+  border-color: #381a00 !important;
+  color: #381a00 !important;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #fdb000 !important;
+}
+
+// landing page
+
+#lp-item-price {
+  font-size: 20px;
+}
+#lp-item-description {
+  font-size: 15px;
+}
+#lp-item-image {
+  height: 300px;
+  object-fit: cover;
+  border: 2px solid #381a00;
+  border-radius: 20px;
+}
+.lp-item-bg {
+  background-color: #fdb000;
+}
+
+// about us
+
+#about-us-title,
+#contact-title {
+  font-family: "Permanent Marker", cursive;
+  color: #fdb000 !important;
+  font-size: 60px;
+  text-align: center;
+  -webkit-text-stroke: 2.5px #381a00;
+}
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Permanent+Marker&display=swap");
+@import "~bootstrap/scss/bootstrap";

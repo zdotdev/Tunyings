@@ -1,0 +1,733 @@
+{
+  "restaurantName": "tunyings",
+  "menuItems": [
+    {
+      "name": "Miki",
+      "price": [
+        {
+          "label": "Good for 4-5 people",
+          "amount": 350.0
+        },
+        {
+          "label": "Good for 6-8 people",
+          "amount": 500.0
+        },
+        {
+          "label": "Good for 10-12 people",
+          "amount": 600.0
+        }
+      ],
+      "description": "Sautéed egg noodle that is soft and pale yellow in color topped with crispy garlic, veggies, meat, and freshly picked calamansi.",
+      "category": "Pansit-Bilao",
+      "imageURL": "./assets/pictures/tunyings/pansitbilao/miki.jpg"
+    },
+    {
+      "name": "Bihon",
+      "price": [
+        {
+          "label": "Good for 4-5 people",
+          "amount": 350.0
+        },
+        {
+          "label": "Good for 6-8 people",
+          "amount": 500.0
+        },
+        {
+          "label": "Good for 10-12 people",
+          "amount": 600.0
+        }
+      ],
+      "description": "Popular Filipino rice noodle dish stir-fried with vegetables, meat, and savory seasonings",
+      "category": "Pansit-Bilao",
+      "imageURL": "./assets/pictures/tunyings/pansitbilao/bihon.jpg"
+    },
+    {
+      "name": "Miki-Bihon",
+      "price": [
+        {
+          "label": "Good for 4-5 people",
+          "amount": 350.0
+        },
+        {
+          "label": "Good for 6-8 people",
+          "amount": 550.0
+        },
+        {
+          "label": "Good for 10-12 people",
+          "amount": 650.0
+        }
+      ],
+      "description": "Delightful combination of two noodle varieties: egg noodles (Miki) and ice noodles (bihon) with meat, shrimp, and vegetables",
+      "category": "Pansit-Bilao",
+      "imageURL": "./assets/pictures/tunyings/pansitbilao/miki-bihon.jpg"
+    },
+    {
+      "name": "Palabok",
+      "price": [
+        {
+          "label": "Good for 4-5 people",
+          "amount": 350.0
+        },
+        {
+          "label": "Good for 6-8 people",
+          "amount": 500.0
+        },
+        {
+          "label": "Good for 10-12 people",
+          "amount": 600.0
+        }
+      ],
+      "description": "Savory noodle dish topped with a rich and flavorful shrimp sauce, garnished with assorted toppings such as meat, shrimp, egg, and crispy chicharron.",
+      "category": "Pansit-Bilao",
+      "imageURL": "./assets/pictures/tunyings/pansitbilao/palabok.jpg"
+    },
+    {
+      "name": "Carbonara Platter",
+      "price": [
+        {
+          "label": "Good for 4-5 people",
+          "amount": 350.0
+        },
+        {
+          "label": "Good for 6-8 people",
+          "amount": 500.0
+        },
+        {
+          "label": "Good for 10-12 people",
+          "amount": 750.0
+        }
+      ],
+      "description": "Creamy pasta dish with eggs, parmesan cheese, meat and bacon.",
+      "category": "Pasta-Platters",
+      "imageURL": "./assets/pictures/tunyings/pasta-platter/carbonara.jpg"
+    },
+    {
+      "name": "Spaghetti Platter",
+      "price": [
+        {
+          "label": "Good for 4-5 people",
+          "amount": 350.0
+        },
+        {
+          "label": "Good for 6-8 people",
+          "amount": 500.0
+        },
+        {
+          "label": "Good for 10-12 people",
+          "amount": 750.0
+        }
+      ],
+      "description": "Classic pasta tossed in a flavorful tomato sauce with ground beef/meat, hotdogs, and mushroom seasoned with aromatic herbs and garnished with freshly grated cheese.",
+      "category": "Pasta-Platters",
+      "imageURL": "./assets/pictures/tunyings/pasta-platter/spaghetti.jpg"
+    },
+    {
+      "name": "Spicy Oriental Noodles Platter",
+      "price": [
+        {
+          "label": "Good for 4-5 people",
+          "amount": 350.0
+        },
+        {
+          "label": "Good for 6-8 people",
+          "amount": 550.0
+        },
+        {
+          "label": "Good for 10-12 people",
+          "amount": 650.0
+        }
+      ],
+      "description": "Fiery fusion of traditional Asian flavors featuring thin noodles, vibrant vegetables, and a rich, spicy sauce.",
+      "category": "Pasta-Platters",
+      "imageURL": "./assets/pictures/tunyings/pasta-platter/spicy-oriental-noodles.jpg"
+    },
+    {
+      "name": "Lasagna Platter",
+      "price": [
+        {
+          "label": "Good for 3-4 people",
+          "amount": 375.0
+        },
+        {
+          "label": "Good for 10-12 people",
+          "amount": 850.0
+        }
+      ],
+      "description": "Layers of tendered pasta sheets, savory ground meat or vegetables, creamy cheese, and marinara sauce, baked with perfection.",
+      "category": "Pasta-Platters",
+      "imageURL": "./assets/pictures/tunyings/pasta-platter/lasagna.jpg"
+    },
+    {
+      "name": "Baked Mac Platter",
+      "price": [
+        {
+          "label": "Good for 10-12 people",
+          "amount": 850.0
+        }
+      ],
+      "description": "Indulgent elbow macaroni smothered in a marinara sauce with ground beef and cheese baked to perfection, creating a golden, crispy crust.",
+      "category": "Pasta-Platters",
+      "imageURL": "./assets/pictures/tunyings/pasta-platter/baked-mac.jpg"
+    },
+    {
+      "name": "California Maki",
+      "price": 130.0,
+      "description": "A classic sushi roll that embodies the essence of California, with creamy avocado, fresh crabmeat, and crisp cucumber, wrapped in a blanket of sushi rice and seaweed.",
+      "category": "Sushi",
+      "imageURL": "./assets/pictures/tunyings/sushi/california-maki.jpg"
+    },
+    {
+      "name": "Chicken Teriyaki",
+      "price": 110.0,
+      "description": "Juicy grilled chicken marinated in a sweet and savory teriyaki sauce, featuring a blend of soy sauce, ginger, garlic, and honey, creating a perfect balance of flavors.",
+      "category": "Sushi",
+      "imageURL": "./assets/pictures/tunyings/sushi/chicken-teriyaki.jpg"
+    },
+    {
+      "name": "Japanese Tamago",
+      "price": 110.0,
+      "description": "A popular traditional dish made with eggs and dashi (a Japanese stock showcasing a fluffy and slightly sweet egg mixture, delicately cooked and rolled into a neat cylinder.",
+      "category": "Sushi",
+      "imageURL": "./assets/pictures/tunyings/sushi/japanese-tamago.png"
+    },
+    {
+      "name": "Volcano Sushi",
+      "price": 199.0,
+      "description": "Sushi roll that combines fresh seafood with creamy avocado and spicy mayo, all rolled together in a layer of seaweed and sticky sushi rice then topped with tempura/tuna flakes.",
+      "category": "Sushi",
+      "imageURL": "./assets/pictures/tunyings/sushi/volcano-sushi.jpg"
+    },
+    {
+      "name": "Kani",
+      "price": [
+        {
+          "label": "Duo",
+          "amount": 230.0
+        },
+        {
+          "label": "Medium",
+          "amount": 600.0
+        }
+      ],
+      "description": "Slightly sweet seafood product made from processed fish meat, mixed with starch, egg white, and flavorings.",
+      "category": "Sushi",
+      "imageURL": "./assets/pictures/tunyings/sushi/kani.jpg"
+    },
+    {
+      "name": "Spicy Shrimp",
+      "price": [
+        {
+          "label": "Single",
+          "amount": 110.0
+        },
+        {
+          "label": "Duo",
+          "amount": 230.0
+        },
+        {
+          "label": "Medium",
+          "amount": 600.0
+        }
+      ],
+      "description": "Succulent, plump shrimp marinated in a fiery blend of chili peppers, garlic, and ginger served with a zesty lime sauce accompanied by vibrant vegetables.",
+      "category": "Sushi",
+      "imageURL": "./assets/pictures/tunyings/sushi/spicy-shrimp.jpg"
+    },
+    {
+      "name": "Mango Cream Cheese",
+      "price": [
+        {
+          "label": "Duo",
+          "amount": 260.0
+        },
+        {
+          "label": "Medium",
+          "amount": 650.0
+        }
+      ],
+      "description": "A delectable combination of smooth, creamy cheese blended with ripe, luscious mangoes offering a delightful balance of tangy creaminess and sweet tropical flavor.",
+      "category": "Sushi",
+      "imageURL": "./assets/pictures/tunyings/sushi/mango-creamcheese.jpg"
+    },
+    {
+      "name": "Miso",
+      "price": 135.0,
+      "description": "Japanese noodle dish characterized by a rich and savory broth made from fermented soybean paste called miso. It includes wheat noodles, sliced pork or chicken, various vegetables like green onions and bean sprouts, and toppings like soft-boiled eggs and seaweed.",
+      "category": "Ramen",
+      "imageURL": "./assets/pictures/tunyings/ramen/miso.jpg"
+    },
+    {
+      "name": "Tonkotsu",
+      "price": 135.0,
+      "description": "Japanese dish known for its rich and creamy pork bone broth featuring thin noodles, tender slices of pork, soft-boiled eggs, and various toppings like green onions and seaweed.",
+      "category": "Ramen",
+      "imageURL": "./assets/pictures/tunyings/ramen/tonkotsu.jpg"
+    },
+    {
+      "name": "Carbonara",
+      "price": 70.0,
+      "description": "Creamy pasta dish with eggs, parmesan cheese, meat and bacon.",
+      "category": "Pasta",
+      "imageURL": "./assets/pictures/tunyings/pasta/carbonara.jpg"
+    },
+    {
+      "name": "Carbonara with 1 slice Pizza",
+      "price": 85.0,
+      "description": "Creamy pasta dish with eggs, parmesan cheese, meat and bacon and an accompaniment of a pizza slice.",
+      "category": "Pasta",
+      "imageURL": "./assets/pictures/tunyings/pasta/carbonara-pizza.jpg"
+    },
+    {
+      "name": "Spaghetti",
+      "price": 70.0,
+      "description": "Classic pasta tossed in a flavorful tomato sauce with ground beef/meat, hotdogs, and mushroom seasoned with aromatic herbs and garnished with freshly grated cheese.",
+      "category": "Pasta",
+      "imageURL": "./assets/pictures/tunyings/pasta/spaghetti.jpg"
+    },
+    {
+      "name": "Spaghetti with 1 slice Pizza",
+      "price": 85.0,
+      "description": "Classic pasta tossed in a flavorful tomato sauce with ground beef/meat, hotdogs, and mushroom seasoned with aromatic herbs and garnished with freshly grated cheese accompanied with a pizza slice.",
+      "category": "Pasta",
+      "imageURL": "./assets/pictures/tunyings/pasta/spaghetti-pizza.jpg"
+    },
+    {
+      "name": "Spicy Oriental Noodles",
+      "price": 80.0,
+      "description": "Fiery fusion of traditional Asian flavors featuring thin noodles, vibrant vegetables, and a rich, spicy sauce.",
+      "category": "Pasta",
+      "imageURL": "./assets/pictures/tunyings/pasta/spicy-oriental-noodles.jpg"
+    },
+    {
+      "name": "Lasagna",
+      "price": 110.0,
+      "description": "Layers of tendered pasta sheets, savory ground meat or vegetables, creamy cheese, and marinara sauce, baked with perfection.",
+      "category": "Pasta",
+      "imageURL": "./assets/pictures/tunyings/pasta/lasagna.jpg"
+    },
+    {
+      "name": "Gyoza (3pcs)",
+      "price": 48.0,
+      "description": "Steamed dumpling consists of a thin dough wrapper filled with a mixture of ground meat (usually pork) and vegetables, such as cabbage, garlic, and ginger.",
+      "category": "Chenzy-Favorite",
+      "imageURL": "./assets/pictures/tunyings/chenzy-favorite/gyoza.jpg"
+    },
+    {
+      "name": "Croquette (10pcs)",
+      "price": 130.0,
+      "description": "Deep-fried food roll or patty made with a mixture of minced meat, mashed potatoes, or vegetables. It is often breaded and crispy on the outside while having a soft and flavorful filling inside.",
+      "category": "Chenzy-Favorite",
+      "imageURL": "./assets/pictures/tunyings/chenzy-favorite/croquette.jpg"
+    },
+    {
+      "name": "Cordon Bleu (1roll)",
+      "price": 150.0,
+      "description": "Delicious fried pounded and flattened pieces of chicken filled with ham and cheese.",
+      "category": "Chenzy-Favorite",
+      "imageURL": "./assets/pictures/tunyings/chenzy-favorite/cordon-bleu.jpg"
+    },
+    {
+      "name": "Bento Meal",
+      "price": 165.0,
+      "description": "Traditional Japanese meal consisting of a single portion of rice, protein (such as fish or meat), vegetables, and pickled items.",
+      "category": "Chenzy-Favorite",
+      "imageURL": "./assets/pictures/tunyings/chenzy-favorite/bento-meal.jpg"
+    },
+    {
+      "name": "Fried Oreo",
+      "price": 75.0,
+      "description": "Delectable treat made by dipping Oreo cookies in a sweet batter and deep frying them until they become golden and crispy on the outside.",
+      "category": "Chenzy-Favorite",
+      "imageURL": "./assets/pictures/tunyings/chenzy-favorite/fried-oreo.jpg"
+    },
+    {
+      "name": "Ham and Cheese",
+      "price": [
+        {
+          "label": "10 inches",
+          "amount": 120.0
+        },
+        {
+          "label": "Half for 2n1",
+          "amount": 135.0
+        },
+        {
+          "label": "14 inches",
+          "amount": 360.0
+        }
+      ],
+      "description": "Classic thin-crust pizza topped with tomato sauce, melted cheese, and slices of savory ham.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/ham-and-cheese.jpg"
+    },
+    {
+      "name": "Hawaiian",
+      "price": [
+        {
+          "label": "10 inches",
+          "amount": 125.0
+        },
+        {
+          "label": "Half for 2in1",
+          "amount": 135.0
+        },
+        {
+          "label": "14 inches",
+          "amount": 260.0
+        }
+      ],
+      "description": "Tropical thin-crust pizza topped with slices of ham, pineapple, and cheese.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/hawaiian.jpg"
+    },
+    {
+      "name": "White Hawaiian",
+      "price": [
+        {
+          "label": "10 inches",
+          "amount": 140.0
+        },
+        {
+          "label": "Half for 2in1",
+          "amount": 135.0
+        },
+        {
+          "label": "14 inches",
+          "amount": 260.0
+        }
+      ],
+      "description": "White sauce-based pizza topped with ham, pineapple, and cheese on a crust that is complemented by a creamy garlic sauce.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/white-hawaiian.jpg"
+    },
+    {
+      "name": "Pepperoni",
+      "price": [
+        {
+          "label": "10 inches",
+          "amount": 150.0
+        },
+        {
+          "label": "Half for 2in1",
+          "amount": 145.0
+        },
+        {
+          "label": "14 inches",
+          "amount": 280.0
+        }
+      ],
+      "description": "Classic pizza that features a thin crust topped with tomato sauce, cheese, and slices of pepperoni.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/peperoni.jpg"
+    },
+    {
+      "name": "Supreme",
+      "price": [
+        {
+          "label": "10 inches",
+          "amount": 150.0
+        },
+        {
+          "label": "Half for 2in1",
+          "amount": 145.0
+        },
+        {
+          "label": "14 inches",
+          "amount": 280.0
+        }
+      ],
+      "description": "Flavorful pizza loaded with a wide range of toppings including a combination of pepperoni, sausage, onions, bell peppers, black olives, and mushrooms.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/supreme.jpg"
+    },
+    {
+      "name": "White Supreme",
+      "price": [
+        {
+          "label": "10 inches",
+          "amount": 150.0
+        },
+        {
+          "label": "Half for 2in1",
+          "amount": 145.0
+        },
+        {
+          "label": "14 inches",
+          "amount": 280.0
+        }
+      ],
+      "description": "Flavorful white sauce-based pizza loaded with a wide range of toppings including a combination of pepperoni, sausage, onions, bell peppers, black olives, and mushrooms.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/white-supreme.jpg"
+    },
+    {
+      "name": "Meatlovers",
+      "price": [
+        {
+          "label": "10 inches",
+          "amount": 150.0
+        },
+        {
+          "label": "Half for 2in1",
+          "amount": 145.0
+        },
+        {
+          "label": "14 inches",
+          "amount": 280.0
+        }
+      ],
+      "description": "Savory pizza featuring thin crust topped with a generous assortment of various meat toppings, such as pepperoni, sausage, bacon, and ham.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/meatlover.jpg"
+    },
+    {
+      "name": "Smokey Bacon",
+      "price": [
+        {
+          "label": "10 inches",
+          "amount": 150.0
+        },
+        {
+          "label": "Half for 2in1",
+          "amount": 145.0
+        },
+        {
+          "label": "14 inches",
+          "amount": 280.0
+        }
+      ],
+      "description": "Crispy crust pizza topped with a generous layer of tomato sauce, gooey melted cheese, and a generous scattering of crispy bacon pieces.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/smokey-bacon.jpg"
+    },
+    {
+      "name": "Sisig",
+      "price": [
+        {
+          "label": "10 inches",
+          "amount": 150.0
+        },
+        {
+          "label": "Half for 2in1",
+          "amount": 145.0
+        },
+        {
+          "label": "14 inches",
+          "amount": 280.0
+        }
+      ],
+      "description": "Flavorful sisig pizza features a crispy pizza crust topped with sisig, traditionally made with chopped pig's face and ears, seasoned with spices and citrus juice.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/sisig.jpg"
+    },
+    {
+      "name": "Creamy Chicken Pizza",
+      "price": [
+        {
+          "label": "10 inches",
+          "amount": 150.0
+        },
+        {
+          "label": "Half for 2in1",
+          "amount": 145.0
+        },
+        {
+          "label": "14 inches",
+          "amount": 280.0
+        }
+      ],
+      "description": "Mouthwatering pizza variation featuring a luscious base of creamy sauce made with cheese, cream, and herbs and topped with tender, seasoned chicken pieces, along with a combination of other flavorful ingredients such as mushrooms, onions, and bell peppers.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/creamy-chicken.jpg"
+    },
+    {
+      "name": "White Chicago",
+      "price": [
+        {
+          "label": "8 inches",
+          "amount": 175.0
+        },
+        {
+          "label": "13 inches",
+          "amount": 420.0
+        }
+      ],
+      "description": "Creamy white sauce-based pizza with a thick and buttery crust topped with a variety of ingredients such as spinach, mushrooms, and a generous amount of mozzarella cheese.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/white-chicago.jpg"
+    },
+    {
+      "name": "13 inches Chorizo Barbeque",
+      "price": 420.0,
+      "description": "Thick-crust pizza topped with a generous amount of melted cheese, slices of chorizo sausage, and a drizzle of sweet barbeque sauce.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/chorizo.jpg"
+    },
+    {
+      "name": "36 inches up to 5 flavors",
+      "price": [
+        {
+          "label": "Monster Pizza 1",
+          "amount": 650.0
+        },
+        {
+          "label": "Monster Pizza 2",
+          "amount": 1500.0
+        }
+      ],
+      "description": "Thick-crust pizza with the customer’s preferred toppings/flavor.",
+      "category": "Pizza",
+      "imageURL": "./assets/pictures/tunyings/pizza/monster-pizza.jpg"
+    },
+    {
+      "name": "50 pcs Assorted Sushi platter",
+      "price": 650.0,
+      "description": "Deliciously packed assorted sushi with the customer's preferred sushi rendition.",
+      "category": "Sushi-Platter",
+      "imageURL": "./assets/pictures/tunyings/platter/50sushi-platter.jpg"
+    },
+    {
+      "name": "40 pcs Assorted Sushi platter",
+      "price": 550.0,
+      "description": "Deliciously packed assorted sushi with the customer's preferred sushi rendition.",
+      "category": "Sushi-Platter",
+      "imageURL": "./assets/pictures/tunyings/platter/40sushi-platter.jpg"
+    },
+    {
+      "name": "40 pcs California Maki",
+      "price": 600.0,
+      "description": "A classic pack of sushi roll that embodies the essence of California, with creamy avocado, fresh crabmeat, and crisp cucumber, wrapped in a blanket of sushi rice and seaweed.",
+      "category": "Sushi-Platter",
+      "imageURL": "./assets/pictures/tunyings/platter/california-maki-platter.jpg"
+    },
+    {
+      "name": "40 pcs Chicken Teriyaki",
+      "price": 500.0,
+      "description": "Pack of juicy grilled chicken marinated in a sweet and savory teriyaki sauce, featuring a blend of soy sauce, ginger, garlic, and honey, creating a perfect balance of flavors.",
+      "category": "Sushi-Platter",
+      "imageURL": "./assets/pictures/tunyings/platter/chickenteriyaki-platter.jpg"
+    },
+    {
+      "name": "40 pcs Japanese Tamago",
+      "price": 500.0,
+      "description": "Dish made with eggs and dashi (a Japanese stock) showcasing a fluffy and slightly sweet egg mixture, delicately cooked and rolled into a neat cylinder.",
+      "category": "Sushi-Platter",
+      "imageURL": "./assets/pictures/tunyings/platter/japanesetamago-platter.jpg"
+    },
+    {
+      "name": "40 pcs Spicy Shrimp",
+      "price": 500.0,
+      "description": "A platter of succulent, plump shrimp marinated in a fiery blend of chili peppers, garlic, and ginger served with a zesty lime sauce accompanied by vibrant vegetables.",
+      "category": "Sushi-Platter",
+      "imageURL": "./assets/pictures/tunyings/platter/spicyfriedshrimp-platter.jpg"
+    },
+    {
+      "name": "40 pcs Vegetarian Maki",
+      "price": 500.0,
+      "description": "A platter of vegetarian maki consisting of various rolls filled with a combination of fresh vegetables, such as cucumber, avocado, carrots, and bell peppers, tightly wrapped in sushi rice and seaweed.",
+      "category": "Sushi-Platter",
+      "imageURL": "./assets/pictures/tunyings/platter/vegetable-maki.jpg"
+    },
+    {
+      "name": "36 pcs Volcano Sushi",
+      "price": 595.0,
+      "description": "A platter of sushi roll that combines fresh seafood with creamy avocado and spicy mayo, all rolled together in a layer of seaweed and sticky sushi rice then topped with tempura/tuna flakes.",
+      "category": "Sushi-Platter",
+      "imageURL": "./assets/pictures/tunyings/platter/volcano-platter.jpg"
+    },
+    {
+      "name": "Gyoza Platters",
+      "description": "A platter of steamed dumplings consisting of a thin dough wrapper filled with a mixture of ground meat (usually pork) and vegetables, such as cabbage, garlic, and ginger.",
+      "category": "Sushi-Platter",
+      "imageURL": "./assets/pictures/tunyings/platter/gyoza-platter.jpg",
+      "price": [
+        {
+          "label": "25 pcs",
+          "amount": 375.0
+        },
+        {
+          "label": "50 pcs",
+          "amount": 750.0
+        }
+      ]
+    },
+    {
+      "name": "Croquette Platters",
+      "description": "A platter of deep-fried food rolls or patties made with a mixture of minced meat, mashed potatoes, or vegetables. It is often breaded and crispy on the outside while having a soft and flavorful filling inside.",
+      "category": "Sushi-Platter",
+      "imageURL": "./assets/pictures/tunyings/platter/croquette-platter.jpg",
+      "price": [
+        {
+          "label": "30 pcs",
+          "amount": 390.0
+        },
+        {
+          "label": "50 pcs",
+          "amount": 750.0
+        }
+      ]
+    },
+    {
+      "name": "Chicken Cordon Bleu Platters",
+      "description": "A platter of delicious fried pounded and flattened pieces of chicken filled with ham and cheese.",
+      "category": "Sushi-Platter",
+      "imageURL": "./assets/pictures/tunyings/platter/cordonbleu-platter.jpg",
+      "price": [
+        {
+          "label": "50 pcs",
+          "amount": 750.0
+        },
+        {
+          "label": "70 pcs",
+          "amount": 1000.0
+        },
+        {
+          "label": "100 pcs",
+          "amount": 1400.0
+        }
+      ]
+    },
+    {
+      "name": "COMBILAO 1",
+      "price": 1000.0,
+      "description": "Combination of 17 pcs. Gyoza, 17 pcs Chicken Crouquette and customer’s choice of pansit/pasta.",
+      "category": "ComBilao",
+      "imageURL": "./assets/pictures/tunyings/combilao/combilao1.jpg"
+    },
+    {
+      "name": "COMBILAO 2",
+      "price": 1000.0,
+      "description": "Combination of 15 pcs. Chicken Cordon Blue, 18 pcs Chicken Crouquette and customer’s choice of pansit/pasta.",
+      "category": "ComBilao",
+      "imageURL": "./assets/pictures/tunyings/combilao/combilao2.jpg"
+    },
+    {
+      "name": "COMBILAO 3",
+      "price": 1000.0,
+      "description": "Combination of 20 pcs. Japanese Siomai, 20 pcs Chicken Crouquette and customer’s choice of pansit/pasta.",
+      "category": "ComBilao",
+      "imageURL": "./assets/pictures/tunyings/combilao/combilao3.jpg"
+    },
+    {
+      "name": "COMBILAO 4",
+      "price": 1000.0,
+      "description": "Combination of 15 pcs. Chicken Cordon Blue, 15 pcs Gyoza and customer’s choice of pansit/pasta.",
+      "category": "ComBilao",
+      "imageURL": "./assets/pictures/tunyings/combilao/combilao4.jpg"
+    },
+    {
+      "name": "COMBILAO 5",
+      "price": 1000.0,
+      "description": "Combination of 20 pcs. Sushi, 15 pcs Gyoza and customer’s choice of pansit/pasta.",
+      "category": "ComBilao",
+      "imageURL": "./assets/pictures/tunyings/combilao/combilao5.jpg"
+    },
+    {
+      "name": "COMBILAO 6",
+      "price": 1000.0,
+      "description": "Combination of 20 pcs. Sushi, 18 pcs Chicken Crouquette and customer’s choice of pansit/pasta.",
+      "category": "ComBilao",
+      "imageURL": "./assets/pictures/tunyings/combilao/combilao6.jpg"
+    }
+  ]
+}

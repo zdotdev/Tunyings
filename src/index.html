@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tun Ying</title>
+    <link rel="icon" href="./assets/pictures/logo.png" type="image/png" />
+    <link rel="stylesheet" href="./assets/scss/main.css" />
+  </head>
+  <body>
+    <div id="navbar-container"></div>
+    <div style="height: 79px"></div>
+
+    <!-- CAROUSEL -->
+    <div id="carousel" class="carousel slide">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img
+            src="./assets/pictures/carousel/picture1.jpg"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            src="./assets/pictures/carousel/picture2.png"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            src="./assets/pictures/carousel/picture3.jpg"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            src="./assets/pictures/carousel/picture4.jpg"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            src="./assets/pictures/carousel/picture5.jpg"
+            class="d-block w-100"
+            alt="..."
+          />
+        </div>
+      </div>
+      <button
+        class="carousel-control-prev"
+        type="button"
+        data-bs-target="#carousel"
+        data-bs-slide="prev"
+      >
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button
+        class="carousel-control-next"
+        type="button"
+        data-bs-target="#carousel"
+        data-bs-slide="next"
+      >
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+
+    <!-- BUTTONS: filters using the ID-->
+    <div id="content" class="container mt-4">
+      <h1 id="menu-title">Menu</h1>
+
+      <div class="btn-group" role="group" aria-label="Basic outlined">
+        <button
+          type="button"
+          class="btn btn-outline-secondary dropdown-toggle"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+          id="filterDropdown"
+        >
+          Filter by Category
+        </button>
+
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" id="">All</a></li>
+          <li>
+            <a class="dropdown-item" id="Chenzy-Favorite"
+              >Chenzy's Chenzy-Favorie</a
+            >
+          </li>
+          <li><a class="dropdown-item" id="ComBilao">Combilao</a></li>
+          <li><a class="dropdown-item" id="Pansit-Bilao">Pansit Bilao</a></li>
+          <li><a class="dropdown-item" id="Pasta">Pasta</a></li>
+          <li>
+            <a class="dropdown-item" id="Pasta-Platters">Pasta Platter</a>
+          </li>
+          <li><a class="dropdown-item" id="Pizza">Pizza</a></li>
+          <li><a class="dropdown-item" id="Sushi">Sushi</a></li>
+          <li><a class="dropdown-item" id="Sushi-Platter">Sushi Platter</a></li>
+          <li><a class="dropdown-item" id="Ramen">Ramen</a></li>
+        </ul>
+      </div>
+
+      <!-- CONTENT -->
+      <hr />
+      <div id="menu" class="row justify-content-center"></div>
+    </div>
+
+    <!-- FOOTER -->
+    <div id="footer-container"></div>
+    <script src="./bootstrap.bundle.min.js"></script>
+    <script src="./assets/js/navbar_footer.js"></script>
+    <script src="./assets/js/main.js"></script>
+  </body>
+</html>
